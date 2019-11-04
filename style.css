@@ -34,7 +34,7 @@ body {
     width: 30%;
     color: white;
     height: 500px;
-    margin-top: 80px;
+    margin-top: 5px;
     
  }
  main{
@@ -42,11 +42,13 @@ body {
      align-items: center;
      justify-content: space-around;
      background-color: wheat;
+     height: 80%;
  }
  #imgIris, #imgIris2{
     width: 30%;
     height: 500px;
-    margin-top: 80px;
+    margin-top: 5px;
+    
      
  }
  
@@ -56,5 +58,20 @@ body {
      margin-top: 10px;
     
  }
- 
+ footer{
+     background-color:rgb(245, 130, 197) ;
+     color: white;
+     height: 10%;
+     
+     width: 100%;
 
+     
+ }
+header {
+    height:10%;
+}
+body{
+    display:flex;
+    flex-direction: column;
+    height:720px;
+    }

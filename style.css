@@ -41,6 +41,7 @@ body {
      display: flex;
      align-items: center;
      justify-content: space-around;
+     background-color: wheat;
  }
  #imgIris, #imgIris2{
     width: 30%;
@@ -55,4 +56,5 @@ body {
      margin-top: 10px;
     
  }
+ 
 
